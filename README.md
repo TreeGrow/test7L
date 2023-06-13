@@ -4,7 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=test7L&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 </p>
 
-*** 
 
 <!-- <h2>Contact Me</h2> -->
 
