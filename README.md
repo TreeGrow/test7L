@@ -8,6 +8,6 @@
 
 <h2>Contact Me</h2>
 
-Telegram: [(https://t.me/Tom)](https://t.me/Lcccccc9)
+Telegram: https://t.me/Lcccccc9
 
 E-Mail: <liuxc99@gmail.com>
