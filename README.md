@@ -5,9 +5,9 @@
 </p>
 
 
-<!-- <h2>Contact Me</h2> -->
+<h2>Contact Me</h2>
 
 Telegram: [[@Tom](https://t.me/Tom)](https://t.me/Lcccccc9)
 
-<!-- - E-Mail: <liuxc99@gmail.com> -->
+E-Mail: <liuxc99@gmail.com>
 
